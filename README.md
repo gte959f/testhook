@@ -5,3 +5,5 @@ testhook
 hello
 
 now
+
+test
