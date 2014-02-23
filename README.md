@@ -5,10 +5,7 @@ testhook
 hello
 test
 a
-sdfaf
-sadfsdf
-hello
-asdfasfsfafasdfsaf
+sdfafdfsdfasfsfafasdfsaf
 asdf
 has
 hello
